@@ -1,0 +1,8 @@
+c:\users\sherlin\source\repos\testApose\testApose\bin\Debug\netcoreapp2.2\testApose.deps.json
+c:\users\sherlin\source\repos\testApose\testApose\bin\Debug\netcoreapp2.2\testApose.runtimeconfig.json
+c:\users\sherlin\source\repos\testApose\testApose\bin\Debug\netcoreapp2.2\testApose.runtimeconfig.dev.json
+c:\users\sherlin\source\repos\testApose\testApose\bin\Debug\netcoreapp2.2\testApose.dll
+c:\users\sherlin\source\repos\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.csprojResolveAssemblyReference.cache
+c:\users\sherlin\source\repos\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.csproj.CoreCompileInputs.cache
+c:\users\sherlin\source\repos\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.AssemblyInfoInputs.cache
+c:\users\sherlin\source\repos\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.AssemblyInfo.cs
