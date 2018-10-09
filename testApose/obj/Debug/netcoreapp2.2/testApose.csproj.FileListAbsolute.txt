@@ -6,3 +6,14 @@ c:\users\sherlin\source\repos\testApose\testApose\obj\Debug\netcoreapp2.2\testAp
 c:\users\sherlin\source\repos\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.csproj.CoreCompileInputs.cache
 c:\users\sherlin\source\repos\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.AssemblyInfoInputs.cache
 c:\users\sherlin\source\repos\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.AssemblyInfo.cs
+C:\Users\sherlin\Documents\access-it\test\testApose\testApose\bin\Debug\netcoreapp2.2\testApose.deps.json
+C:\Users\sherlin\Documents\access-it\test\testApose\testApose\bin\Debug\netcoreapp2.2\testApose.runtimeconfig.json
+C:\Users\sherlin\Documents\access-it\test\testApose\testApose\bin\Debug\netcoreapp2.2\testApose.runtimeconfig.dev.json
+C:\Users\sherlin\Documents\access-it\test\testApose\testApose\bin\Debug\netcoreapp2.2\testApose.dll
+C:\Users\sherlin\Documents\access-it\test\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.csprojResolveAssemblyReference.cache
+C:\Users\sherlin\Documents\access-it\test\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.csproj.CoreCompileInputs.cache
+C:\Users\sherlin\Documents\access-it\test\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.AssemblyInfoInputs.cache
+C:\Users\sherlin\Documents\access-it\test\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.AssemblyInfo.cs
+C:\Users\sherlin\Documents\access-it\test\testApose\testApose\bin\Debug\netcoreapp2.2\testApose.pdb
+C:\Users\sherlin\Documents\access-it\test\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.dll
+C:\Users\sherlin\Documents\access-it\test\testApose\testApose\obj\Debug\netcoreapp2.2\testApose.pdb
